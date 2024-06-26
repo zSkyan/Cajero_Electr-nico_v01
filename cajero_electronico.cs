@@ -46,7 +46,7 @@ namespace parcial1
 			mensaje_consig = "4: Consignación de dinero";
 
 			titulo = "App que simula un cajero electrónico";
-			autor = "Por: Jean Pierre Restrepo Casafús";
+			autor = "Por: Skyan";
 
 			// Presentación
 			
